@@ -16,4 +16,4 @@ let randomNumber = Math.random(20)
 
 let randomInteger = Math.floor(randomNumber)
 
-let randomUserId = randomInteger(min 1000000001, max 1000000020);
+let randomUserId = min 1000000001, max 1000000020;
