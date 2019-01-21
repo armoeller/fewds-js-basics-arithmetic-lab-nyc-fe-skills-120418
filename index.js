@@ -16,4 +16,4 @@ let randomNumber = Math.random(20)
 
 let randomInteger = Math.floor(randomNumber)
 
-const randomUserId = Math.ceil(1000000020)(randomNumber + 1000000000);
+const randomUserId = randomNumber + 1000000000
